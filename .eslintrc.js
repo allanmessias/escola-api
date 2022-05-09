@@ -15,5 +15,6 @@ module.exports = {
         'no-multiple-empty-lines': ['error', { max: 1, maxEOF: 0 }],
         'class-methods-use-this': 'off',
         'import/first': 'off',
+        'no-param-reassign': 'off',
     },
 };
